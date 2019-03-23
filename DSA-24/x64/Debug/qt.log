@@ -1,0 +1,3 @@
+DSA24.qrc|"c:\Users\catad\source\repos\DSA-24\DSA-24\DSA24.qrc" -o ".\GeneratedFiles\qrc_DSA24.cpp" --name DSA24
+DSA24.ui|"c:\Users\catad\source\repos\DSA-24\DSA-24\DSA24.ui" -o ".\GeneratedFiles\ui_DSA24.h"
+DSA24.h|"c:\Users\catad\source\repos\DSA-24\DSA-24\DSA24.h" -o ".\GeneratedFiles\Debug\moc_DSA24.cpp" "-I.\GeneratedFiles" "-I." "-IC:\Qt\5.10.1\msvc2017_64\include" "-I.\GeneratedFiles\Debug" "-IC:\Qt\5.10.1\msvc2017_64\include\QtCore" "-IC:\Qt\5.10.1\msvc2017_64\include\QtGui" "-IC:\Qt\5.10.1\msvc2017_64\include\QtANGLE" "-IC:\Qt\5.10.1\msvc2017_64\include\QtWidgets" -DUNICODE -D_UNICODE -DWIN32 -DWIN64 -DQT_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
